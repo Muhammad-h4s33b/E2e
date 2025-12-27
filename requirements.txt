@@ -10,5 +10,11 @@ psutil==6.1.1
 webdriver-manager>=4.0.0
 streamlit-cookies-manager
 streamlit-local-storage
+streamlit
+gunicorn
+requests
+aiohttp
 pytz
+python-dotenv
+sqlalchemy
 httpx
